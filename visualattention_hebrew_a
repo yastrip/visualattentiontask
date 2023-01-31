@@ -1,0 +1,293 @@
+bitmaps
+  instruction1
+  instruction2
+  instruction3
+  goodjob
+  negativefeedbacksmiley
+  positivefeedbacksmiley
+  fixpoint
+  Fig2Fig2
+  Fig2Fig3
+  Fig2Fig4
+  Fig2Fig5
+  Fig2Fig6
+  Fig3Fig2
+  Fig3Fig3
+  Fig3Fig4
+  Fig3Fig5
+  Fig3Fig6
+  Fig4Fig2
+  Fig4Fig3
+  Fig4Fig4
+  Fig4Fig5
+  Fig4Fig6
+  Fig5Fig2
+  Fig5Fig3
+  Fig5Fig4
+  Fig5Fig5
+  Fig5Fig6
+  Fig6Fig2
+  Fig6Fig3
+  Fig6Fig4
+  Fig6Fig5
+  Fig6Fig6
+  BEISBEIS 
+  BEISDALET 
+  BEISKUF 
+  BEISR 
+  BEISTZADI 
+  BEISVAV 
+  DALETBEIS 
+  DALETDALET
+  DALETKUF 
+  DALETR 
+  DALETTZADI
+  DALETVAV 
+  KUFBEIS 
+  KUFDALET 
+  KUFKUF 
+  KUFR 
+  KUFTZADI 
+  KUFVAV 
+  RBEIS 
+  RDALET 
+  RKUF 
+  RR 
+  RTZADI 
+  RVAV 
+  TZADIBEIS 
+  TZADIDALET
+  TZADIKUF 
+  TZADIR 
+  TZADITZADI
+  TZADIVAV 
+  VAVBEIS 
+  VAVDALET 
+  VAVKUF 
+  VAVR 
+  VAVTZADI 
+  VAVVAV
+  circlecircle
+  circlerect
+  circletri
+  rectcircle
+  rectrect
+  recttri
+  tricircle
+  trirect
+  tritri   
+
+videos
+  instrone https://www.dropbox.com/s/rd61qrw1hraesq3/instruction1.mp4?dl=0
+  instrtwo https://www.dropbox.com/s/2kwf8tobzwoepja/instruction2.mp4?dl=0
+  taskintro https://www.dropbox.com/s/lkzm4axeeo0rytq/Visual%20attention%20task%20intro_July11.mp4?dl=0
+  taskinter  https://www.dropbox.com/s/0ouy8zh2508qh52/vataskintermediatejuly4.mp4?dl=0
+  taskoutro  https://www.dropbox.com/s/e47obfkjxbgxyot/visualattentiontaskoutrojuly4.mp4?dl=0
+  
+table visualattention
+  "Figure" Fig2Fig2 0 2
+  "Figure" Fig2Fig2 0 2
+  "Figure" Fig2Fig2 0 2
+  "Figure" Fig2Fig2 0 2
+  "Figure" Fig2Fig3 0 1
+  "Figure" Fig2Fig4 0 1
+  "Figure" Fig2Fig5 0 1
+  "Figure" Fig3Fig2 0 1
+  "Figure" Fig3Fig3 0 2
+  "Figure" Fig3Fig3 0 2
+  "Figure" Fig3Fig3 0 2
+  "Figure" Fig3Fig3 0 2
+  "Figure" Fig3Fig4 0 1
+  "Figure" Fig3Fig5 0 1
+  "Figure" Fig3Fig6 0 1
+  "Figure" Fig4Fig2 0 1
+  "Figure" Fig4Fig3 0 1
+  "Figure" Fig4Fig4 0 2
+  "Figure" Fig4Fig4 0 2
+  "Figure" Fig4Fig4 0 2
+  "Figure" Fig4Fig5 0 1
+  "Figure" Fig4Fig6 0 1
+  "Figure" Fig5Fig2 0 1 
+  "Figure" Fig5Fig4 0 1
+  "Figure" Fig5Fig5 0 2
+  "Figure" Fig5Fig5 0 2
+  "Figure" Fig5Fig5 0 2
+  "Figure" Fig5Fig5 0 2
+  "Figure" Fig6Fig2 0 1
+  "Figure" Fig6Fig3 0 1
+  "Figure" Fig6Fig4 0 1
+  "Figure" Fig6Fig5 0 1
+  "Figure" Fig6Fig6 0 2
+  "Figure" Fig6Fig6 0 2
+  "Figure" Fig6Fig6 0 2
+  "Figure" Fig6Fig6 0 2
+  "Familiar" circlecircle 0 2
+  "Familiar" circlecircle 0 2
+  "Familiar" circlerect   0 1
+  "Familiar" circletri    0 1
+  "Familiar" rectcircle   0 1
+  "Familiar" rectrect     0 2
+  "Familiar" rectrect     0 2
+  "Familiar" recttri      0 1
+  "Familiar" tricircle    0 1
+  "Familiar" trirect      0 1
+  "Familiar" tritri       0 2
+  "Familiar" tritri       0 2
+  "Familiar" circlecircle 0 2
+  "Familiar" circlecircle 0 2
+  "Familiar" circlerect   0 1
+  "Familiar" circletri    0 1
+  "Familiar" rectcircle   0 1
+  "Familiar" rectrect     0 2
+  "Familiar" rectrect     0 2
+  "Familiar" recttri      0 1
+  "Familiar" tricircle    0 1
+  "Familiar" trirect      0 1
+  "Familiar" tritri       0 2
+  "Familiar" tritri       0 2
+  "Familiar" circlecircle 0 2
+  "Familiar" circlecircle 0 2
+  "Familiar" circlerect   0 1
+  "Familiar" circletri    0 1
+  "Familiar" rectcircle   0 1
+  "Familiar" rectrect     0 2
+  "Familiar" rectrect     0 2
+  "Familiar" recttri      0 1
+  "Familiar" tricircle    0 1
+  "Familiar" trirect      0 1
+  "Familiar" tritri       0 2
+  "Familiar" tritri       0 2
+  "Letter"  BEISBEIS     0 2
+  "Letter"  BEISBEIS     0 2
+  "Letter"  BEISBEIS     0 2
+  "Letter"  BEISR        0 1
+  "Letter"  BEISTZADI    0 1
+  "Letter"  BEISVAV      0 1
+  "Letter"  DALETBEIS    0 1
+  "Letter"  DALETDALET   0 2
+  "Letter"  DALETDALET   0 2
+  "Letter"  DALETDALET   0 2
+  "Letter"  DALETKUF     0 1
+  "Letter"  DALETTZADI   0 1
+  "Letter"  DALETVAV     0 1
+  "Letter"  KUFDALET     0 1
+  "Letter"  KUFKUF       0 2
+  "Letter"  KUFKUF       0 2
+  "Letter"  KUFKUF       0 2
+  "Letter"  KUFR         0 1
+  "Letter"  RDALET       0 1
+  "Letter"  RKUF         0 1
+  "Letter"  RR           0 2
+  "Letter"  RTZADI       0 1
+  "Letter"  RVAV         0 1
+  "Letter"  TZADIBEIS    0 1
+  "Letter"  TZADIDALET   0 1
+  "Letter"  TZADIKUF     0 1
+  "Letter"  TZADIR       0 1
+  "Letter"  TZADITZADI   0 2
+  "Letter"  TZADITZADI   0 2
+  "Letter"  TZADITZADI   0 2
+  "Letter"  VAVBEIS      0 1
+  "Letter"  VAVDALET     0 1
+  "Letter"  VAVR         0 1
+  "Letter"  VAVTZADI     0 1
+  "Letter"  VAVVAV       0 2
+  "Letter"  VAVVAV       0 2
+  
+options
+  fullscreen
+
+task instru1
+  show video instrone
+  delay 18000
+  clear -1 -2
+
+task instru2
+  show video instrtwo
+  delay 18000
+  clear -1 -2
+
+task inter
+  show video taskinter
+  delay 22000
+  clear -1 -2
+
+task intro
+  show video taskintro
+  delay 55000
+  clear -1 -2
+
+task outro
+  show video taskoutro
+  delay 54000
+  clear -1 -2
+
+task visual
+  table visualattention
+  keys l a
+  show bitmap fixpoint
+  delay 200
+  clear 1
+  show bitmap @2 @3 0
+  readkey @4 2000
+  clear 2
+  if STATUS != CORRECT
+    show bitmap negativefeedbacksmiley
+    delay 1200
+    clear 3
+  fi
+  if STATUS = CORRECT
+    show bitmap positivefeedbacksmiley
+    delay 1200
+    clear 3
+  fi
+  delay 500
+  save @1 STATUS RT BLOCKNAME
+
+block intro
+  tasklist
+    intro 1
+  end
+
+block instruction1
+  tasklist
+    instru1 1
+  end
+
+block training
+  message instruction1
+  tasklist
+    visual 8
+  end
+
+block instruction2
+  tasklist 
+    instru2 1
+  end
+
+block real1
+  message instruction1
+  tasklist
+    visual 25
+  end
+
+block inter
+  tasklist
+    inter 1
+  end
+
+block instruction3
+  tasklist 
+    instru2 1
+  end
+
+block real2
+  message instruction2
+  tasklist
+    visual 25
+  end
+
+block outro
+  tasklist
+    outro 1
+  end
